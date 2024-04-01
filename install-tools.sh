@@ -1,2 +1,2 @@
 apt-get update
-apt-get install wget
+apt-get install -y iputils-ping
